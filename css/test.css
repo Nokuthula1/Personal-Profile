@@ -1,0 +1,36 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+   
+}
+
+.toppane{
+    width: 69%;
+    height: 110px;
+    float: right;
+    border-collapse: collapse;
+    background-color:#e1eef7;
+    text-align: center;   
+}
+.leftpane{
+    width: 30%;
+    height: 104%;
+    float: left;
+    margin-left: 10px;
+    background-color: #008080;
+    opacity:100%;
+    border-collapse: collapse; 
+}
+.rightpane{
+    width: 69%;
+    height: 85%;
+    border-collapse: collapse;
+    float: right;
+    background-color:#571616;
+}
+img {
+    border-radius: 50%;
+    width:40%;
+
+  }
